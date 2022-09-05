@@ -106,5 +106,5 @@ describe("PlayPause works correctly", () => {
 });
 
 afterAll(() => {
-  console.log("Final Score:", global.score);
+  console.log("Final Score is ", global.score);
 });
