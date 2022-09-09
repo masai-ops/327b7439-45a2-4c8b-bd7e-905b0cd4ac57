@@ -1,4 +1,4 @@
-# react-employees-list
+# react-basic-components-state-props
 
 ## Submission Instructions [Please note]
 
@@ -18,7 +18,7 @@
 
 - you can use any node version that works for you ( 14+ )
 - please make sure you do not push package-lock.json
-- You can use the [codesandbox link](https://codesandbox.io/s/example-s2sli9?file=/src/App.js:0-169), but please note the test cases will not work on codesandbox ( as codesandbox will not support the version for testing )
+- You can use the [codesandbox link](https://codesandbox.io/s/rct-101-sprint-1-eval-template-rphgcu), but please note the test cases will not work on codesandbox ( as codesandbox will not support the version for testing )
 - If you are using codesandbox, you still need to download the project add to your masai-course repo submit the github link on the cp.masaichool.com platform
 
 ```
@@ -52,6 +52,8 @@ You need to create a component called Heading. This component will need to have 
 - **Image.jsx**
 
 You need to create an Image component which accepts the following properties / props
+
+- **Please do a default export of the all the components**
 
 - title
 - src
